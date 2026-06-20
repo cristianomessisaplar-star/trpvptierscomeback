@@ -1,0 +1,13 @@
+{
+  "name": "tr-pvp-tiers-website",
+  "version": "1.0.0",
+  "description": "TR PvP Tiers Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serve.js",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
